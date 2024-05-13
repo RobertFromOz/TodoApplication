@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rober\\Desktop\\Winona\\src\\ToDoBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{484C28B0-84FF-460B-82C4-A55A06C2ABA8}|ToDoBackend.csproj|c:\\users\\rober\\desktop\\winona\\src\\todobackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484C28B0-84FF-460B-82C4-A55A06C2ABA8}|ToDoBackend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484C28B0-84FF-460B-82C4-A55A06C2ABA8}|ToDoBackend.csproj|c:\\users\\rober\\desktop\\winona\\src\\todobackend\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484C28B0-84FF-460B-82C4-A55A06C2ABA8}|ToDoBackend.csproj|solutionrelative:todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 207,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\Desktop\\Winona\\src\\ToDoBackend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rober\\Desktop\\Winona\\src\\ToDoBackend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAE4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:21:38.231Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 193,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ToDoService.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\Desktop\\Winona\\src\\ToDoBackend\\ToDoService.cs",
+              "RelativeDocumentMoniker": "ToDoService.cs",
+              "ToolTip": "C:\\Users\\rober\\Desktop\\Winona\\src\\ToDoBackend\\ToDoService.cs",
+              "RelativeToolTip": "ToDoService.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAYwCAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:24:20.77Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

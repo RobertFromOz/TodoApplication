@@ -1,0 +1,29 @@
+<section class="vh-100" style="background-color: #eee;">
+  <div class="container py-5 h-100">
+    <div class="row d-flex justify-content-center align-items-center h-100">
+      <div class="col col-lg-9 col-xl-7">
+        <div class="card rounded-3">
+          <div class="card-body p-4">
+
+            <h4 class="text-center my-3 pb-3">Todo View</h4>
+
+            <div>
+                <button routerLink="/list" data-mdb-button-init data-mdb-ripple-init class="btn btn-primary">Back</button>
+            </div>
+
+            <table class="table mb-4">
+              <tbody *ngIf="isReady">
+                <tr><th>Id</th><td>{{viewTodo.id}}</td></tr>        
+                <tr><th>Task</th><td>{{viewTodo.task}}</td></tr>      
+                <tr><th>Deadline</th><td>{{viewTodo.deadline | date:'yyyy-MM-dd'}}</td></tr>  
+                <tr><th>Completed</th><td>{{viewTodo.completed}}</td></tr> 
+                <tr><th>Details</th><td class="preformatted">{{viewTodo.details}}</td></tr>                   
+                <tr><th>Parent</th><td>{{viewTodo.parentId}}</td></tr>    
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
