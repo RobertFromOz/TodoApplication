@@ -4,7 +4,7 @@
 
 # Run Backend
 ```bat
-cd ToDoBackend
+cd todo-backend-csharp
 dotnet run
 ```
 * Backend hosted at http://localhost:5120
@@ -30,7 +30,7 @@ npm start
 * Install Angular 17 
 ```bat
 npm install -g @angular/cli
-cd ToDoFrontend
+cd todo-frontend-angular
 npm install
 ```
 
