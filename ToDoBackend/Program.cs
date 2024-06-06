@@ -17,7 +17,12 @@ builder.Services.AddCors(options =>
     options.AddPolicy(name: corsSetting,
         policy =>
         {
-            policy.WithOrigins("http://localhost:4200","http://localhost:4200/todo/*")
+            policy.WithOrigins(
+                // Angular
+                "http://localhost:4200","http://localhost:4200/todo/*",
+                // React
+                "http://localhost:3000", "http://localhost:3000/todo/*"
+                )
                 .AllowAnyHeader()
                 .WithMethods("GET", "POST", "DELETE", "PUT");
         });

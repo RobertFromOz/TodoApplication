@@ -442,11 +442,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rober\\Desktop\\Winona\\src\\ToDoBackend\\ToDoBackend.csproj",
+      "projectUniqueName": "C:\\Users\\rober\\Desktop\\General\\TodoApplication\\ToDoBackend\\ToDoBackend.csproj",
       "projectName": "ToDoBackend",
-      "projectPath": "C:\\Users\\rober\\Desktop\\Winona\\src\\ToDoBackend\\ToDoBackend.csproj",
+      "projectPath": "C:\\Users\\rober\\Desktop\\General\\TodoApplication\\ToDoBackend\\ToDoBackend.csproj",
       "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rober\\Desktop\\Winona\\src\\ToDoBackend\\obj\\",
+      "outputPath": "C:\\Users\\rober\\Desktop\\General\\TodoApplication\\ToDoBackend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rober\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,14 @@
+.clickable {
+    cursor: pointer;
+}
+
+.hovered-cell:hover {
+    background-color: lightgray;
+}
+
+.preformatted {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+  
